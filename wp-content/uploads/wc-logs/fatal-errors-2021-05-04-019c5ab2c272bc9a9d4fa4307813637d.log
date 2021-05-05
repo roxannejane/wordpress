@@ -1,0 +1,4 @@
+2021-05-04T21:42:55+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\checkout\form-shipping.php on line 62
+
+2021-05-04T21:45:57+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\checkout\form-shipping.php on line 64
+

@@ -1,0 +1,18 @@
+db name: wordpress
+db username : root
+password: ""
+db host: localhost
+table prefix: rjf_
+or wp_
+
+
+site title KoreanPosh 	
+username roxannejane
+password YCQdIu!AHQQDCap9Tl
+your email 
+
+http://localhost/wordpress/index.php/home/ 
+
+http://localhost/wordpress/index.php/about/
+
+http://localhost/wordpress/index.php/contact/
